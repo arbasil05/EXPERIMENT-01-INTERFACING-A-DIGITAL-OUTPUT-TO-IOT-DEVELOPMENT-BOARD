@@ -128,9 +128,9 @@ int main(void)
 ```
 
 ## OUTPUT
+<img width="1600" height="900" alt="WhatsApp Image 2026-08-05 at 11 40 40 (1)" src="https://github.com/user-attachments/assets/04fb7af5-af10-4490-8ca3-2233a25da901" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-08-05 at 11 40 47" src="https://github.com/user-attachments/assets/5a729a85-f4a5-4229-9743-741c54f7633e" />
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-08-05 at 11 40 28 (1)" src="https://github.com/user-attachments/assets/ee55e78c-2797-4814-a01e-e6fe04584516" />
-<img width="1600" height="900" alt="WhatsApp Image 2026-08-05 at 11 40 31" src="https://github.com/user-attachments/assets/339a74e8-1d56-4356-aae8-bfd2cc4207d0" />
 
 
 
